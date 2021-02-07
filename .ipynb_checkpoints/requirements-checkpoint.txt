@@ -1,0 +1,6 @@
+pynndescent==0.4.8
+pandas==1.0.5
+numpy==1.19.4
+umap_learn==0.4.6
+scikit_learn==0.24.1
+umap==0.1.1
