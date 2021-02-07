@@ -13,7 +13,7 @@ Then, clone the repo and install requirements:
 
 
 ```
-git clone
-cd
+git clone https://github.com/gdmarmerola/bayes-nets.git
+cd bayes-nets
 pip install -r requirements.txt
 ```
